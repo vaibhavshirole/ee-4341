@@ -1,0 +1,26 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mz_sk configuration
+CND_ARTIFACT_DIR_pic32mz_sk=dist/pic32mz_sk/production
+CND_ARTIFACT_NAME_pic32mz_sk=basic_freertos.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_sk=dist/pic32mz_sk/production/basic_freertos.X.production.hex
+# pic32mx_sk configuration
+CND_ARTIFACT_DIR_pic32mx_sk=dist/pic32mx_sk/production
+CND_ARTIFACT_NAME_pic32mx_sk=basic_freertos.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_sk=dist/pic32mx_sk/production/basic_freertos.X.production.hex
+# pic32mz_ef_sk configuration
+CND_ARTIFACT_DIR_pic32mz_ef_sk=dist/pic32mz_ef_sk/production
+CND_ARTIFACT_NAME_pic32mz_ef_sk=basic_freertos.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ef_sk=dist/pic32mz_ef_sk/production/basic_freertos.X.production.hex
+# pic32mz_ef_sk_microMIPS configuration
+CND_ARTIFACT_DIR_pic32mz_ef_sk_microMIPS=dist/pic32mz_ef_sk_microMIPS/production
+CND_ARTIFACT_NAME_pic32mz_ef_sk_microMIPS=basic_freertos.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ef_sk_microMIPS=dist/pic32mz_ef_sk_microMIPS/production/basic_freertos.X.production.hex
+# pic32mx_sk_mips16 configuration
+CND_ARTIFACT_DIR_pic32mx_sk_mips16=dist/pic32mx_sk_mips16/production
+CND_ARTIFACT_NAME_pic32mx_sk_mips16=basic_freertos.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_sk_mips16=dist/pic32mx_sk_mips16/production/basic_freertos.X.production.hex
