@@ -1,0 +1,26 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mx_usb_sk2_int_dyn configuration
+CND_ARTIFACT_DIR_pic32mx_usb_sk2_int_dyn=dist/pic32mx_usb_sk2_int_dyn/production
+CND_ARTIFACT_NAME_pic32mx_usb_sk2_int_dyn=hid_mouse.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_usb_sk2_int_dyn=dist/pic32mx_usb_sk2_int_dyn/production/hid_mouse.X.production.hex
+# pic32mx_usb_sk3_int_dyn configuration
+CND_ARTIFACT_DIR_pic32mx_usb_sk3_int_dyn=dist/pic32mx_usb_sk3_int_dyn/production
+CND_ARTIFACT_NAME_pic32mx_usb_sk3_int_dyn=hid_mouse.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_usb_sk3_int_dyn=dist/pic32mx_usb_sk3_int_dyn/production/hid_mouse.X.production.hex
+# pic32mx460_pim_e16_int_dyn configuration
+CND_ARTIFACT_DIR_pic32mx460_pim_e16_int_dyn=dist/pic32mx460_pim_e16_int_dyn/production
+CND_ARTIFACT_NAME_pic32mx460_pim_e16_int_dyn=hid_mouse.X.production.hex
+CND_ARTIFACT_PATH_pic32mx460_pim_e16_int_dyn=dist/pic32mx460_pim_e16_int_dyn/production/hid_mouse.X.production.hex
+# pic32mz_ef_sk_int_dyn configuration
+CND_ARTIFACT_DIR_pic32mz_ef_sk_int_dyn=dist/pic32mz_ef_sk_int_dyn/production
+CND_ARTIFACT_NAME_pic32mz_ef_sk_int_dyn=hid_mouse.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ef_sk_int_dyn=dist/pic32mz_ef_sk_int_dyn/production/hid_mouse.X.production.hex
+# chipkit_wifire configuration
+CND_ARTIFACT_DIR_chipkit_wifire=dist/chipkit_wifire/production
+CND_ARTIFACT_NAME_chipkit_wifire=hid_mouse.X.production.hex
+CND_ARTIFACT_PATH_chipkit_wifire=dist/chipkit_wifire/production/hid_mouse.X.production.hex
