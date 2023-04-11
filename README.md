@@ -8,3 +8,4 @@ All of the projects are for the PIC32MX470F512L
 * lab4: interfacing with SD card
 * lab5: simple communication over CAN
 * lab6: usb
+* lab7: harmony graphics
